@@ -38,6 +38,14 @@ section#redes-sociais{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
+    box-sizing: border-box;
+    box-shadow: 2px 1px  5px #000000b2;
+}
+#redes-sociais img:hover{
+    border: 2px solid #fffafa8f;
+    transform: translate(-5px, -5px);
+    box-shadow: 7px 7px  5px #000000af;
+    transition: 0.3s;
 }
 iframe#tela-home{
     position: relative;
