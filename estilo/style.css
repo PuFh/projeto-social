@@ -47,7 +47,7 @@ section#redes-sociais{
     box-shadow: 7px 7px  5px #000000af;
     transition: 0.3s;
 }
-iframe#tela-home{
+iframe#tela{
     position: relative;
     width: 269px;
     height: 471px;
